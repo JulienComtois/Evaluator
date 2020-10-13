@@ -52,7 +52,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.12</version>
+			<version>4.13.1</version>
 			<!-- only to be used during test phase will not be included in executable 
 				jar -->
 			<scope>test</scope>
